@@ -42,10 +42,10 @@
 ---
 
 ### 💼 Professional Experience
-* **Flutter Developer @ Coddynet** *(Nov 2025 - Present)*
+* **Flutter Developer @ Coddynet** *(Sep 2025 - Present)*
   * Architected package-based codebases for multi-brand deployment via centralized endpoints.
   * Owned end-to-end features including API contracts, local caching, and offline-first SQL mechanisms.
-* **Flutter Developer @ Regumsoft** *(Oct 2022 - Nov 2025)*
+* **Flutter Developer @ Regumsoft** *(Oct 2022 - Sep 2025)*
   * Delivered complex apps in municipal services, trading, and e-commerce.
   * Built real-time chat and A/V calling using ZEGOCLOUD with integrated payment gateways.
 
