@@ -42,10 +42,10 @@
 ---
 
 ### 💼 Professional Experience
-* **Flutter Developer @ Coddynet** *(Sep 2025 - Present)*
+* **Flutter Developer @ Coddynet** *(Nov 2025 - Present)*
   * Architected package-based codebases for multi-brand deployment via centralized endpoints.
   * Owned end-to-end features including API contracts, local caching, and offline-first SQL mechanisms.
-* **Flutter Developer @ Regumsoft** *(Oct 2022 - Sep 2025)*
+* **Flutter Developer @ Regumsoft** *(Oct 2022 - Nov 2025)*
   * Delivered complex apps in municipal services, trading, and e-commerce.
   * Built real-time chat and A/V calling using ZEGOCLOUD with integrated payment gateways.
 
@@ -61,7 +61,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeel-Gondaliya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeel-Gondaliya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
